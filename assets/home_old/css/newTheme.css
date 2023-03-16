@@ -1,0 +1,192 @@
+.bg-dark {
+    background-color: #12161C !important;
+}
+
+a {
+    color: #3d6d84;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #babec3;
+    background-color: #12161c;
+    border-color: #12161c #12161c #12161c;
+    font-weight: bold;
+}
+
+table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd {
+     background-color: #12161c !important;
+}
+
+table.dataTable tbody tr {
+    background-color: #06090c !important;
+}
+
+.ortabolum {
+    border-left: solid 1px #12161c;
+    border-right: solid 1px #12161c;
+}
+
+.card {
+    background-color: #06090c;
+    border: 1px solid rgb(18, 22, 28);
+}
+
+.custom-select {
+    color: #b7b8b9;
+    background-color: #12161c;
+    border: 1px solid #6c757d;
+}
+.table-hover tbody tr:hover {
+    color: #ffffff !important;
+}
+table.dataTable.display tbody tr.odd>.sorting_1, table.dataTable.order-column.stripe tbody tr.odd>.sorting_1 {
+    background-color: #12161c !important;
+}
+
+table.dataTable.display tbody tr.even>.sorting_1, table.dataTable.order-column.stripe tbody tr.even>.sorting_1 {
+    background-color: #06090c !important;
+}
+table.dataTable.display tbody tr:hover>.sorting_1, table.dataTable.order-column.hover tbody tr:hover>.sorting_1 {
+    background-color: #06090c !important;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #0c2640b5 !important;
+}
+
+.form-control:focus{
+    background-color: #06090c;
+    border: 1px solid #12161c;
+}
+
+.btn-success {
+    color: #b7b8b9;
+    background-color: #06090c;
+    border-color: #0f1217;
+    font-weight: bold;
+}
+
+.btn-danger {
+    color: #b7b8b9;
+    background-color: #06090c;
+    border-color: #0f1217;
+    font-weight: bold;
+}
+
+.btn-primary {
+    color: #b7b8b9;
+    background-color: #06090c;
+    border-color: #12161c;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    color: #b7b8b9;
+    background-color: #12161c;
+    border-color: #06090c;
+    font-weight: bold;
+}
+.btn-primary:focus {
+    color: #b7b8b9;
+    background-color: #12161c;
+    border-color: #feefde;
+    font-weight: bold;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #b7b8b9;
+    background-color: #12161c;
+    border-color: #12161c;
+    font-weight: bold;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgb(18, 22, 28);
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #06090c;
+    background-color: #ffffff;
+    border-color: #12161c;
+}
+
+.page-link:hover {
+    z-index: 2;
+    color: #0056b3;
+    text-decoration: none;
+    background-color: #12161c;
+    border-color: #06090c;
+}
+
+.page-link {
+    color: #ffffff;
+    background-color: #06090c;
+    border-color: #12161c;
+}
+.page-link:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.badge-primary {
+    color: #b7b8b9;
+    background-color: #06090c00;
+    border: solid 1px #000000;
+    font-weight: bold;
+    border-radius: inherit;
+    padding: 9px 15px 9px 15px;
+}
+.badge-secondary {
+    color: #b7b8b9;
+    background-color: #6c757d;
+    padding: 9px 15px 9px 15px;
+    border-radius: inherit;
+}
+a.badge-primary:hover {
+    color: #b7b8b9;
+    background-color: #6c757d;
+    border-color: #feefde;
+    font-weight: bold;
+}
+a.badge-primary:focus {
+    color: #b7b8b9;
+    background-color: #6c757d;
+    border-color: #feefde;
+    font-weight: bold;
+}
+
+.modal-content {
+    background-color: #383f4a !important;
+}
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
+    /*background-color: #f89e3229 !important;*/
+}
+
+.table {
+    color: #b7b8b9 !important;
+}
+.ust-card{
+    background-color: #12161c !important;
+}
+
+.ust-card-2 {
+    background-color: #12161c;
+    border: 1px solid #f89c2e;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #12161c!important;
+}
+#myTabContent{
+    /*box-shadow: rgba(0, 0, 0, 0.06) 0px 0px 40px;*/
+}
+.tradingTable {
+    /*box-shadow: rgba(0, 0, 0, 0.06) 0px 0px 40px;*/
+}
+table.dataTable.no-footer {
+     border-bottom: 0 !important; 
+}
+
+.table th, .table td {
+    border-bottom: 1px solid #0e0e0e;
+    border-top: 0 !important;
+}
